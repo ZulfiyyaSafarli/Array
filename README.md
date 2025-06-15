@@ -1,30 +1,28 @@
-- 👋 Hi, I’m @ZulfiyyaSafarli
-- 👀 I’m interested in cybersecurity. 
-- 🌱 I’m currently learning Google Cybersecurity Professional Certificate. 
-- 💞️ I’m looking to collaborate on cybersecurity projects and initiatives to gain hands-on experience, learn from seasoned professionals, and contribute to enhancing digital security measures.
-- 📫 How to reach me:
-You can reach me via email at zulfi.safarli@gmail.com, or you can connect with me on LinkedIn at https://www.linkedin.com/in/zulfiyya-s-07467a25b/. I'm always open to networking and discussing opportunities in the cybersecurity field.
-- 💪 My strengths:
-1. Technical knowledge: Foundations of Cybersecurity
-2. Analytical skills: analytical and problem-solving skills
-3. Attention to detail
-4. Communication skills
-6. Learning agility
-7. Ethical mindset
-8. Programming or scripting: C, C++, HTML, CSS, JavaScript
-9. Soft skills: critical thinking, time management, adaptability
-- 🌟 My values:
-1. Integrity
-2. Accountability
-3. Proactive security
-4. Privacy
-5. User education
-6. Resilience
+# 👋 Hi, I’m @ZulfiyyaSafarli
 
+🎓 I'm a Computer Science student at ADA University (CGPA: 3.98) and an Erasmus+ exchange student at Middle East Technical University. I also hold a merit-based scholarship in AI Engineering at Alas Academy.
 
+🔐 I'm passionate about **AI**, **cybersecurity**, and **blockchain**—fields where I actively apply my academic background.
 
-My strengths in cybersecurity, including technical knowledge, analytical skills, and ethical mindset, align seamlessly with the security goals of any organization. I am committed to proactively safeguarding data and systems, prioritizing integrity and accountability, and promoting user education. With a foundation in programming and adaptability to new technologies, I am well-equipped to address evolving threats and contribute to the organization's resilience in the face of cybersecurity challenges.
-<!---
-ZulfiyyaSafarli/ZulfiyyaSafarli is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+💻 My work experience spans across Web3 and blockchain:
+- **Blockchain Research Intern** at TriO Blockchain Labs – Conducting research in DeFi, Metaverse, and AI.
+- **Web3 Manual Tester Intern** at Airdrops Factory – Contributing to Web3 projects through DEX testing, smart contract deployment, and NFT transactions.
+
+💞 I’m looking to **collaborate on cybersecurity, AI, and blockchain-related projects** to gain hands-on experience, contribute to meaningful work, and learn from professionals in the field.
+
+📫 **Reach me at:**
+- Email: zulfi.safarli@gmail.com or zsafarli16242@ada.edu.az  
+- LinkedIn: [linkedin.com/in/zulfiyyasafarli](https://www.linkedin.com/in/zulfiyyasafarli/)
+
+---
+
+## 🏆 Highlights & Achievements
+- 🥈 Winner (2nd place), **Circuit Smarts – Trivia Showdown** & **BankTech Hackathon**
+- 👩‍💻 Project Developer & Instructor, **Diversity in Tech** – Promoting women in IT by teaching Python
+- 💡 Finalist, **Idea Incubation Program** with Azercell – Developed e-commerce MVP
+- 🛫 Winner, **Galactic Society Dubai Scholarship Trip**
+- 🎯 Career Ambassador at ADA University, awarded by Azersun
+- 🥇 Top performer in national exams (SSAC score: 642.6) and honored multiple times on **Lotfi A. Zadeh List of Honor**
+
+---
+
