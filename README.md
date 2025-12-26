@@ -3,5 +3,5 @@
 🎓 I'm a Computer Science student at ADA University (CGPA: 3.98) and an Erasmus+ exchange student at Middle East Technical University. I also hold a merit-based scholarship in AI Engineering at Alas Academy.
 
 📫 **Reach me at:**
-- Email: zulfi.safarli@gmail.com or zsafarli16242@ada.edu.az  
+- Email: zulfiyyasafarli@outlook.com or zsafarli16242@ada.edu.az  
 - LinkedIn: https://www.linkedin.com/in/zulfiyya-safarli/
